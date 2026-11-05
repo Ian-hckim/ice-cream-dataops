@@ -1,6 +1,6 @@
 # nuremberg_site_manual.CogniteFile.yaml
 externalId: 'Nuremberg_MouldingLineA46_PIDv2'
-space: 'nuremberg_sp'
+space: 'icapi_space_name'
 name: 'Nuremberg_MouldingLineA46_PIDv2.pdf'
 description: 'Site manual for the Nuremberg Ice Cream Factory site.'
 mimeType: 'application/pdf'
