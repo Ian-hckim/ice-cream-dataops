@@ -1,6 +1,6 @@
 # nuremberg_site_manual.CogniteFile.yaml
 externalId: 'Nuremberg_MouldingLineA46_PIDv2'
-space: 'icapi_space_name'
+space: 'icapi_dm_space'
 name: 'Nuremberg_MouldingLineA46_PIDv2.pdf'
 description: 'Site manual for the Nuremberg Ice Cream Factory site.'
 mimeType: 'application/pdf'
@@ -9,5 +9,5 @@ tags:
   - 'manual'
   - 'nuremberg'
 assets:
-  - space: 'nuremberg_sp'
+  - space: 'icapi_dm_space'
     externalId: 'nuremberg_production_mould_A46'   # link the file to a CogniteAsset instance in the same space, e.g. the site or a specific line
